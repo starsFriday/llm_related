@@ -1,0 +1,8 @@
+torch
+modelscope
+transformers
+tokenizers
+numpy
+matplotlib
+tqdm
+jupyterlab
